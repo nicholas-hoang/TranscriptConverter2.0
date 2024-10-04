@@ -1,6 +1,11 @@
+![image](https://github.com/user-attachments/assets/d67a7c57-3355-4d95-adbf-51afbc4ea12a)
+
 # TranscriptConverter2.0
 
 A simple Streamlit application to convert VTT (Web Video Text Tracks) files into formatted Word documents. This tool allows users to upload multiple VTT files, process them, and download the resulting Word documents with organized transcriptions.
+
+
+
 
 ## Features
 
@@ -20,18 +25,18 @@ To run this application, you'll need the following dependencies:
 - python-docx
 - webvtt-py
 
-You can install the required libraries using pip:
 
-```bash
-pip install streamlit pandas python-docx webvtt-py
-
-
-## Installation
+## Requirements
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/nicholas-hoang/TranscriptConverter2.0.git
+```
+You can install the required libraries using pip:
+
+```bash
+pip install streamlit pandas python-docx webvtt-py
 ```
 Run the application:
 ```bash
