@@ -24,3 +24,22 @@ You can install the required libraries using pip:
 
 ```bash
 pip install streamlit pandas python-docx webvtt-py
+
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/nicholas-hoang/TranscriptConverter2.0.git
+```
+Run the application:
+```bash
+streamlit run main.py
+```
+## Contributors
+Nick Hoang
+
+## License
+
+This project is licensed under the MIT License.
